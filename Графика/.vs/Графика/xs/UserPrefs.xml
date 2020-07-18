@@ -1,0 +1,16 @@
+﻿<Properties StartupConfiguration="{DC0D1F25-E7F3-4CF2-94DA-5A8D5E2C4E0B}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Графика/CodeFile1.cs">
+    <Files>
+      <File FileName="Графика/Form1.cs" Line="11" Column="35" />
+      <File FileName="Графика/CodeFile1.cs" Line="32" Column="27" />
+      <File FileName="Графика/Program.cs" Line="16" Column="46" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Графика PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
